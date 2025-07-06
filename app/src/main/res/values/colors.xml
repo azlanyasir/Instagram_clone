@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_50_alpha">#80FFFFFF</color> <!-- For hint text -->
+    <color name="gray_600">#FF4A4A4A</color> <!-- For input borders and separator lines -->
+    <color name="gray_400">#FF999999</color> <!-- For OR text and "Don't have an account?" -->
+    <color name="blue_500">#FF3797EF</color> <!-- For Login button background -->
+    <color name="blue_400">#FF4CB5F9</color> <!-- For links like Forgotten Password and Sign Up -->
+    <!-- You had #9754F4 for forgotten password, I've used a blue closer to Instagram's theme -->
+</resources>
